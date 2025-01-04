@@ -1,0 +1,29 @@
+body {
+    background: #01161e;
+}
+
+.container input {
+    width: 320px;
+    height: 120px;
+}
+
+.row .btn {
+    height: 70px;
+}
+
+.row .btn-success {
+    width: 80px;
+    background-color: #284b63;
+}
+
+.row .btn-primary {
+    width: 80px;
+}
+
+.row #c {
+    width: 80px;
+}
+
+.row .btn-danger {
+    width: 160px;
+}
